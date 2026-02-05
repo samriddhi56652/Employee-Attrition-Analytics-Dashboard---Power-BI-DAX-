@@ -21,4 +21,5 @@ Analyzed managerial impact using:
 5. Gender-based attrition view
 6. Education-wise attrition contribution (treemap)
 7. City-wise attrition analysis (map)
+
 Created global slicers (Business Unit, Role, Grade, City, Gender, Tenure Band) ensuring cross-filtering and interactive exploration for stakeholders.
