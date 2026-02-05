@@ -13,6 +13,7 @@ Implemented performance & reward alignment analysis using:
 1. Rating vs Attrition
 2. Average Salary Hike (Attrited vs Retained)
 3. Rating × Hike interaction matrix
+
 Analyzed managerial impact using:
 1. Attrition by Reporting Authority
 2. Staff Action vs Attrition (100% stacked column chart) to compare proportional attrition risk
